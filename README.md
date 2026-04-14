@@ -67,6 +67,7 @@ Run task as soon as possible after a scheduled start is missed
 If the running task does not end when requested, force it to stop
 ```
 Put everyhing else off.
+
 14. Press 'OK' to return back to main Task Scheduler window.
 
 Alright, that's now done. We should have a working task, which runs every 1 hour to disable network protection. We can test the task streight away, select the task by clicking it and navigating to the right menu and clicking 'Run'.
